@@ -13,9 +13,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"IOS",
-		"Linux",
-		"Mac",
 		"Windows"
 	]
 }
